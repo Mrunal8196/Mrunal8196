@@ -1,4 +1,4 @@
-### Hi, I'm Mrunal 👋
+### Hi, I'm Mrunali 👋
 
 Senior Data Analyst / People Data Analyst with 7+ years of experience across HCM, pharma, and FinTech.
 I turn messy data into dashboards and decisions; Power BI, DAX, SQL, and Python are my daily tools.
